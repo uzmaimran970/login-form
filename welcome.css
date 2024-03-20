@@ -1,0 +1,16 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	font-size: 40px;
+	background-color: royalblue;
+	font: white;
+}
+logo{
+	 width: 150px;
+    margin: 20px 0;
+    position: center;
+    left: -45%;
+    cursor: pointer;
+}
